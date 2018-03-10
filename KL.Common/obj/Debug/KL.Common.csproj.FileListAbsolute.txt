@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2013\Projects\NgKLShop\KL.Common\bin\Debug\KL.Common.dll
+c:\users\dell\documents\visual studio 2013\Projects\NgKLShop\KL.Common\bin\Debug\KL.Common.pdb
+c:\users\dell\documents\visual studio 2013\Projects\NgKLShop\KL.Common\obj\Debug\KL.Common.dll
+c:\users\dell\documents\visual studio 2013\Projects\NgKLShop\KL.Common\obj\Debug\KL.Common.pdb
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\NgKLShop\KL.Common\obj\Debug\KL.Common.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\NgKLShop\KL.Common\obj\Debug\KL.Common.csproj.CoreCompileInputs.cache

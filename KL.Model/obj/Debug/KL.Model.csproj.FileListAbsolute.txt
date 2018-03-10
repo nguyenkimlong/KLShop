@@ -1,0 +1,11 @@
+c:\users\dell\documents\visual studio 2013\Projects\NgKLShop\KL.Model\bin\Debug\KL.Model.dll.config
+c:\users\dell\documents\visual studio 2013\Projects\NgKLShop\KL.Model\bin\Debug\KL.Model.dll
+c:\users\dell\documents\visual studio 2013\Projects\NgKLShop\KL.Model\bin\Debug\KL.Model.pdb
+c:\users\dell\documents\visual studio 2013\Projects\NgKLShop\KL.Model\bin\Debug\EntityFramework.dll
+c:\users\dell\documents\visual studio 2013\Projects\NgKLShop\KL.Model\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\dell\documents\visual studio 2013\Projects\NgKLShop\KL.Model\bin\Debug\EntityFramework.xml
+c:\users\dell\documents\visual studio 2013\Projects\NgKLShop\KL.Model\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\dell\documents\visual studio 2013\Projects\NgKLShop\KL.Model\obj\Debug\KL.Model.dll
+c:\users\dell\documents\visual studio 2013\Projects\NgKLShop\KL.Model\obj\Debug\KL.Model.pdb
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\NgKLShop\KL.Model\obj\Debug\KL.Model.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\NgKLShop\KL.Model\obj\Debug\KL.Model.csproj.CoreCompileInputs.cache

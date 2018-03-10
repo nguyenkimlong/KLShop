@@ -1,0 +1,16 @@
+c:\users\dell\documents\visual studio 2013\Projects\NgKLShop\KL.Service\bin\Debug\KL.Service.dll
+c:\users\dell\documents\visual studio 2013\Projects\NgKLShop\KL.Service\bin\Debug\KL.Service.pdb
+c:\users\dell\documents\visual studio 2013\Projects\NgKLShop\KL.Service\bin\Debug\KL.Common.dll
+c:\users\dell\documents\visual studio 2013\Projects\NgKLShop\KL.Service\bin\Debug\KL.Data.dll
+c:\users\dell\documents\visual studio 2013\Projects\NgKLShop\KL.Service\bin\Debug\KL.Model.dll
+c:\users\dell\documents\visual studio 2013\Projects\NgKLShop\KL.Service\bin\Debug\KL.Common.pdb
+c:\users\dell\documents\visual studio 2013\Projects\NgKLShop\KL.Service\bin\Debug\KL.Data.pdb
+c:\users\dell\documents\visual studio 2013\Projects\NgKLShop\KL.Service\bin\Debug\KL.Model.pdb
+c:\users\dell\documents\visual studio 2013\Projects\NgKLShop\KL.Service\obj\Debug\KL.Service.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\NgKLShop\KL.Service\obj\Debug\KL.Service.dll
+c:\users\dell\documents\visual studio 2013\Projects\NgKLShop\KL.Service\obj\Debug\KL.Service.pdb
+c:\users\dell\documents\visual studio 2013\Projects\NgKLShop\KL.Service\bin\Debug\EntityFramework.dll
+c:\users\dell\documents\visual studio 2013\Projects\NgKLShop\KL.Service\bin\Debug\EntityFramework.xml
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\NgKLShop\KL.Service\bin\Debug\KL.Data.dll.config
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\NgKLShop\KL.Service\bin\Debug\KL.Model.dll.config
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\NgKLShop\KL.Service\obj\Debug\KL.Service.csproj.CoreCompileInputs.cache
